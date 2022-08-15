@@ -1,9 +1,8 @@
-package cn.iwwzc.random;
 
 import java.util.Random;
 import java.util.Scanner;
 
-public class RandomDemo2 {
+public class GuessNumber {
     public static void main(String[] args) {
         // 猜数游戏
         Random r = new Random();
