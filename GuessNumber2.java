@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class test2 {
+public class GuessNumber2 {
     public static void main(String[] args) {
      // 需求：生成5个1-20的随机数，让用户猜，若猜中提示猜中，还要输出该数据在数组中第一次出现的索引,并打印数组内容，没猜中继续
 
